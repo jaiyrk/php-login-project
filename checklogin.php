@@ -9,7 +9,7 @@ if($username == "admin" && $password == "password")
 }
 else
 {
-    echo "Login Failed";
+    echo "login failed";
 }
 
 ?>
